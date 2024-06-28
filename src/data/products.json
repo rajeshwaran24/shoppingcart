@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "name": "Watch",
+      "price": 999,
+      "image": "./images/watch.jpg"
+    },
+    {
+      "id": 2,
+      "name": "headphone",
+      "price": 899,
+      "image": "./images/headphone.jpg"
+    },{
+        "id": 3,
+        "name": "Laptop",
+        "price": 124999,
+        "image": "./images/Laptop.png"
+      },
+      {
+        "id": 4,
+        "name": "Monitor",
+        "price": 43499,
+        "image": "./images/Monitor.jpg"
+      },
+      {
+        "id": 5,
+        "name": "projector",
+        "price": 43499,
+        "image": "./images/projector.webp"
+      },
+      {
+        "id": 6,
+        "name": "Driller",
+        "price": 3399,
+        "image": "./images/driller.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Toster",
+        "price": 3499,
+        "image": "./images/toster.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Hater",
+        "price": 34999,
+        "image": "./images/heater.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Drone",
+        "price": 52899,
+        "image": "./images/drone.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Radio",
+        "price": 799,
+        "image": "./images/radio.jpg"
+      },{
+        "id": 11,
+        "name": "Washing Machine",
+        "price": 40499,
+        "image": "./images/washing.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Camera",
+        "price": 35999,
+        "image": "./images/Monitor.jpg"
+      }
+  ]
+  
